@@ -4,7 +4,7 @@ import 'package:meditation_app/constants.dart';
 import 'package:meditation_app/widgets/bottom_nav_bar.dart';
 import 'package:meditation_app/widgets/search_bar.dart';
 
-class DetailsScreen extends StatelessWidget {
+class DetailsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var size = MediaQuery.of(context).size;
